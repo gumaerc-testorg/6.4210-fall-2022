@@ -41,9 +41,10 @@
     "website": "6-4210-robotic-manipulation-fall-2022"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Videos"
   ],
   "site_uid": "300d74e0-4eb1-4857-b97c-1f169a1faf18",
-  "site_short_id": "6.4210-fall-2022"
+  "site_short_id": "6.4210-fall-2022",
+  "site_url_path": "courses/6-4210-robotic-manipulation-fall-2022"
 }
